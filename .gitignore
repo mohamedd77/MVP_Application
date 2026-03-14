@@ -13,3 +13,6 @@
 .externalNativeBuild
 .cxx
 local.properties
+# Vosk Models
+app/src/main/assets/model-ar/
+app/src/main/assets/model-en/
